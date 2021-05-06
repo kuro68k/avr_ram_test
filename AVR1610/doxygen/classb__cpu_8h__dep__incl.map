@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$registers_2_user_application_8c.html" title="This is a demo application for the CPU registers test." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node5" href="$classb__cpu__gcc_8c.html" title="This file contains the function definition for a CPU register test that is compatible with AVR GCC..." alt="" coords="153,80,279,107"/>
+<area shape="rect" id="node7" href="$classb__cpu__iar_8c.html" title="This file contains the function definition for a CPU register test that is compatible with IAR..." alt="" coords="304,80,424,107"/>
+</map>

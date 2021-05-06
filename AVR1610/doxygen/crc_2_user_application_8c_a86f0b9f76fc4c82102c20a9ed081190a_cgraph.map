@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__classb__crc__hw.html#ga223f015bbb64f08ad0e5759a26d2eb6e" title="Compute 16&#45;bit CRC for EEPROM address range using hardware CRC module." alt="" coords="97,5,311,32"/>
+<area shape="rect" id="node5" href="$group__classb__crc__hw.html#gab9c4362c4f3c100edbab049d5ca5cef1" title="Compute 32&#45;bit CRC for Flash address range using hardware CRC module." alt="" coords="109,56,299,83"/>
+</map>

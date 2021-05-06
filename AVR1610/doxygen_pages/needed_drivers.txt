@@ -1,0 +1,12 @@
+/**
+ *
+ *
+ * \page needed_drivers Needed drivers and header files
+
+ * The Class B library needs the following files
+ *   - tests/avr_compiler.h					Macros for compatibility between the IAR and GCC compiler.
+ *   - tests/classb_rtc_common.h			Header file with settings for the RTC. Required by the CPU clock frequency test, interrupt monitor and WDT test. 
+ *   - tests/classb_rtc_common.c			Basic driver for the RTC that is used to generate a periodic interrupt. Required by the CPU clock frequency test, interrupt monitor and WDT test. 
+ *   - tests/error_handler.h				Error handlers for the tests and other configurable actions.
+ *
+ */

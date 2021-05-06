@@ -1,0 +1,47 @@
+/**
+ *
+ *
+ * \page tests_sec Related files 
+ *
+ * The source code for the tests that have been implemented is stored in the folder tests/. 
+ * This includes the following files:
+ * 
+ * - Common
+ *   - avr_compiler.h          	Definitions and macros to ensure code compatibility with IAR and GCC.
+ *   - classb_rtc_common.h     	Settings for the Real Time Counter.
+ *   - classb_rtc_common.c     	Optional driver for the Real Time Counter. 
+ *   - error_handler.h         	Macros and definitions related to error handlers and configurable actions.
+ *
+ * - Analog I/O
+ *   - classb_analog.h			Header file with settings for the ADC, DAC and Multiplexer test. 
+ *   - classb_analog.c			ADC, DAC and Multiplexer test. 
+ *
+ * - CRC Test
+ *   - classb_crc.h 			Header file with settings for the CRC tests.
+ *   - classb_crc_sw.h 			Header file for software implementation of CRC.
+ *   - classb_crc_sw.c 			Software implementation of CRC.
+ *   - classb_crc_hw.h 			Header file for the CRC hardware module.
+ *   - classb_crc_hw.c 			Driver for the CRC hardware module.
+ *
+ * - CPU Register Test
+ *   - classb_cpu.h				Header file with settings for the CPU registers test. 
+ *   - classb_cpu_gcc.c			Register test (GCC compiler).
+ *   - classb_cpu_iar.c			Register test (IAR compiler).
+ *
+ * - CPU Frequency Test
+ *   - classb_freq.h			Header file with settings for the frequency test.
+ *   - classb_freq.c			ISR and routine for checking the CPU frequency.
+ *
+ * - Interrupt frequency monitor
+ *   - classb_interrupt_monitor.h 	Header file with settings for the interrupt monitor.
+ *   - classb_interrupt_monitor.c 	Functions related to the interrupt monitor.
+ *
+ * - SRAM MarchX Test
+ *   - classb_sram.h			Header file with settings for the SRAM test.
+ *   - classb_sram.c			Internal SRAM test. 
+ *
+ * - Watchdog Timer Test
+ *   - classb_wdt_test.h		Header file with settings for the WDT test.
+ *   - classb_wdt_test.c		WDT test that executes after reset. 
+ *
+ */

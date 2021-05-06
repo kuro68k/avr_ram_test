@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$avr__compiler_8h.html" title="Header file for compiler compatibility." alt="" coords="79,304,184,331"/>
+<area shape="rect" id="node11" href="$classb__rtc__common_8h.html" title="Settings for the RTC driver." alt="" coords="138,80,288,107"/>
+<area shape="rect" id="node14" href="$error__handler_8h.html" title="Macros and definitions for handling errors and other configurable actions." alt="" coords="249,229,356,256"/>
+<area shape="rect" id="node18" href="$classb__interrupt__monitor_8h.html" title="This file contains settings and definitions for the interrupt monitor." alt="" coords="126,155,300,181"/>
+</map>

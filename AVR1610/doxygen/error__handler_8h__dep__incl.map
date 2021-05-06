@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classb__analog_8h.html" title="This is the header file for the ADC and DAC tests." alt="" coords="153,80,268,107"/>
+<area shape="rect" id="node9" href="$classb__rtc__common_8h.html" title="Settings for the RTC driver." alt="" coords="603,80,753,107"/>
+<area shape="rect" id="node13" href="$classb__freq_8h.html" title="Settings and definitions for the CPU frequency test." alt="" coords="293,155,392,181"/>
+<area shape="rect" id="node20" href="$classb__interrupt__monitor_8h.html" title="This file contains settings and definitions for the interrupt monitor." alt="" coords="591,155,765,181"/>
+<area shape="rect" id="node27" href="$classb__wdt__test_8h.html" title="Settings for the watchdog timer test." alt="" coords="790,155,916,181"/>
+<area shape="rect" id="node31" href="$classb__crc_8h.html" title="Settings and defines used in connection with CRC memory tests." alt="" coords="1100,80,1196,107"/>
+<area shape="rect" id="node47" href="$classb__cpu_8h.html" title="Settings and definitions for the CPU registers test." alt="" coords="1387,80,1485,107"/>
+<area shape="rect" id="node55" href="$classb__sram_8c.html" title="SRAM test based on the March X algorithm." alt="" coords="1509,80,1616,107"/>
+<area shape="rect" id="node5" href="$analog_2_user_application_8c.html" title="This in an demo application for the ADC and DAC tests." alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node7" href="$classb__analog_8c.html" title="This is the code for the ADC and DAC tests." alt="" coords="153,155,268,181"/>
+<area shape="rect" id="node11" href="$classb__rtc__common_8c.html" title="Driver for the RTC." alt="" coords="417,155,567,181"/>
+<area shape="rect" id="node15" href="$frequency_2_user_application_8c.html" title="This is the demo application for the CPU frequency test." alt="" coords="285,229,408,256"/>
+<area shape="rect" id="node18" href="$classb__freq_8c.html" title="CPU frequency test." alt="" coords="161,229,260,256"/>
+<area shape="rect" id="node22" href="$interrupts_2_user_application_8c.html" title="This in an demo application for the interrupt monitor." alt="" coords="638,229,761,256"/>
+<area shape="rect" id="node25" href="$classb__interrupt__monitor_8c.html" title="This file contains functions for monitoring the frequency of execution of registered interrupts..." alt="" coords="439,229,613,256"/>
+<area shape="rect" id="node29" href="$classb__wdt__test_8c.html" title="Watchdog timer self&#45;diagnostic routine." alt="" coords="790,229,916,256"/>
+<area shape="rect" id="node33" href="$crc_2_user_application_8c.html" title="Demo application for the CRC tests." alt="" coords="941,155,1064,181"/>
+<area shape="rect" id="node35" href="$classb__crc__hw_8h.html" title="Definitions and settings for the CRC hardware module driver." alt="" coords="1089,155,1207,181"/>
+<area shape="rect" id="node40" href="$classb__crc__sw_8h.html" title="Definitions and settings for the CRC implemented in software." alt="" coords="1231,155,1349,181"/>
+<area shape="rect" id="node38" href="$classb__crc__hw_8c.html" title="Driver for 16&#45; and 32&#45;bit CRC using CRC hardware module." alt="" coords="1089,229,1207,256"/>
+<area shape="rect" id="node43" href="$classb__crc__sw_8c.html" title="Functions for computing 32&#45; and 16&#45;bit CRC for EEPROM and Flash." alt="" coords="1231,229,1349,256"/>
+<area shape="rect" id="node49" href="$registers_2_user_application_8c.html" title="This is a demo application for the CPU registers test." alt="" coords="1374,155,1497,181"/>
+<area shape="rect" id="node51" href="$classb__cpu__gcc_8c.html" title="This file contains the function definition for a CPU register test that is compatible with AVR GCC..." alt="" coords="1522,155,1648,181"/>
+<area shape="rect" id="node53" href="$classb__cpu__iar_8c.html" title="This file contains the function definition for a CPU register test that is compatible with IAR..." alt="" coords="1673,155,1793,181"/>
+</map>

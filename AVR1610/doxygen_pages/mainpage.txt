@@ -1,0 +1,18 @@
+/** 
+ * \mainpage Introduction
+ *	
+ *
+ * Atmel has developed a set of self-test software modules for the XMEGA family of microcontrollers. 
+ * These modules will simplify the design of IEC60730 Class B compliant applications.
+ * 
+ * Tested in IAR 6.10 and Atmel Studio 6.0.
+ * 
+ * <b> Sections: </b>
+ * \li <a href="modules.html">Class B Modules:</a> This presents the software modules that have
+ * been developed for each Class B test, i.e. it describes functions, variables, constants, 
+ * symbols, etc. that are relevant to the user. 
+ * \li <a href="usergroup0.html">Files and folders description:</a> This describes the folder 
+ * structure, library files, driver and header files that are needed and example files.
+ *
+ * 
+ */

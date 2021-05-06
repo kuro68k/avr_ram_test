@@ -1,0 +1,17 @@
+/** 
+ *	
+ *
+ * \page comb_sec Example applications
+ *
+ * We have developed an example application for each test.
+ *
+ * - examples/analog/UserApplication.c				Analog I/O test example application
+ * - examples/crc/UserApplication.c					CRC test example application
+ * - examples/frequency/UserApplication.c 			System clock frequency test example application
+ * - examples/interrupts/UserApplication.c			Interrupt monitor example application
+ * - examples/registers/UserApplication.c			CPU Register test example application
+ * - examples/sram/UserApplication.c				SRAM March X test example application
+ * - examples/wdt/UserApplication.c					Watchdog timer test example application
+ *
+ *
+ */

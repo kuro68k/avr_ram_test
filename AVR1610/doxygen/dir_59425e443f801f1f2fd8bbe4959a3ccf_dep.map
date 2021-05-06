@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="dir_525b524aded7d13fecd08ac65ba7b30b.html" title="freq" alt="" coords="405,123,477,171"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000000_000004.html" title="1" alt="" coords="481,109,489,124"/>
+<area shape="rect" id="node6" href="dir_db01ef6f35564ab8546d362dbb01c8ca.html" title="interrupts" alt="" coords="502,123,577,171"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000000_000005.html" title="1" alt="" coords="546,97,554,112"/>
+<area shape="rect" id="node3" href="dir_b9869078ac878984c79e40d7fb24f446.html" title="analog" alt="" coords="411,27,483,75"/>
+<area shape="rect" id="node4" href="dir_bfa4d4cacb934b53f5c5586ad1dce775.html" title="crc" alt="" coords="315,27,387,75"/>
+<area shape="rect" id="node7" href="dir_6daa66358750f96eb689cb270e8735ae.html" title="registers" alt="" coords="219,27,291,75"/>
+<area shape="rect" id="node8" href="dir_f2003bd128083da12785f7b089e65454.html" title="sram" alt="" coords="123,27,195,75"/>
+<area shape="rect" id="node9" href="dir_6114cfbca06059934ee050a1591cee24.html" title="wdt" alt="" coords="27,27,99,75"/>
+<area shape="rect" id="graph2" href="dir_59425e443f801f1f2fd8bbe4959a3ccf.html" alt="" coords="16,16,589,181"/>
+</map>

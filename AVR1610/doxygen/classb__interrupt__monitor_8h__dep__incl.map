@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$interrupts_2_user_application_8c.html" title="This in an demo application for the interrupt monitor." alt="" coords="6,80,129,107"/>
+<area shape="rect" id="node5" href="$classb__rtc__common_8h.html" title="Settings for the RTC driver." alt="" coords="154,80,304,107"/>
+<area shape="rect" id="node21" href="$classb__interrupt__monitor_8c.html" title="This file contains functions for monitoring the frequency of execution of registered interrupts..." alt="" coords="329,80,503,107"/>
+<area shape="rect" id="node7" href="$classb__rtc__common_8c.html" title="Driver for the RTC." alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node9" href="$classb__freq_8h.html" title="Settings and definitions for the CPU frequency test." alt="" coords="180,155,279,181"/>
+<area shape="rect" id="node17" href="$classb__wdt__test_8h.html" title="Settings for the watchdog timer test." alt="" coords="303,155,429,181"/>
+<area shape="rect" id="node11" href="$frequency_2_user_application_8c.html" title="This is the demo application for the CPU frequency test." alt="" coords="31,229,155,256"/>
+<area shape="rect" id="node14" href="$classb__freq_8c.html" title="CPU frequency test." alt="" coords="180,229,279,256"/>
+<area shape="rect" id="node19" href="$classb__wdt__test_8c.html" title="Watchdog timer self&#45;diagnostic routine." alt="" coords="303,229,429,256"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$avr__compiler_8h.html" title="Header file for compiler compatibility." alt="" coords="129,379,233,405"/>
+<area shape="rect" id="node11" href="$classb__freq_8h.html" title="Settings and definitions for the CPU frequency test." alt="" coords="132,80,231,107"/>
+<area shape="rect" id="node14" href="$classb__rtc__common_8h.html" title="Settings for the RTC driver." alt="" coords="106,155,256,181"/>
+<area shape="rect" id="node17" href="$error__handler_8h.html" title="Macros and definitions for handling errors and other configurable actions." alt="" coords="237,304,344,331"/>
+<area shape="rect" id="node21" href="$classb__interrupt__monitor_8h.html" title="This file contains settings and definitions for the interrupt monitor." alt="" coords="94,229,268,256"/>
+</map>

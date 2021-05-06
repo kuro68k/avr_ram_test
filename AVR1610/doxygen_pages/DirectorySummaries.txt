@@ -1,0 +1,20 @@
+/** \file
+ *
+ *  This file contains special DoxyGen information for the generation of the main page and other special
+ *  documentation pages. It is not a project source file.
+ */
+
+/** \dir examples
+ *  \brief Project files and example applications
+ *
+ *  This folder contains project files for Studio 6.0 and IAR, as well as the example applications.
+ *
+ */
+ 
+ /** \dir tests
+ *  \brief Library files 
+ *
+ *  This folder contains the library source code. 
+ *
+ */
+

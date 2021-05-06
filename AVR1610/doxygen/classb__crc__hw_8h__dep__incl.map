@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classb__crc_8h.html" title="Settings and defines used in connection with CRC memory tests." alt="" coords="164,80,260,107"/>
+<area shape="rect" id="node13" href="$classb__crc__hw_8c.html" title="Driver for 16&#45; and 32&#45;bit CRC using CRC hardware module." alt="" coords="285,80,403,107"/>
+<area shape="rect" id="node5" href="$crc_2_user_application_8c.html" title="Demo application for the CRC tests." alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node8" href="$classb__crc__sw_8h.html" title="Definitions and settings for the CRC implemented in software." alt="" coords="153,155,271,181"/>
+<area shape="rect" id="node11" href="$classb__crc__sw_8c.html" title="Functions for computing 32&#45; and 16&#45;bit CRC for EEPROM and Flash." alt="" coords="153,229,271,256"/>
+</map>

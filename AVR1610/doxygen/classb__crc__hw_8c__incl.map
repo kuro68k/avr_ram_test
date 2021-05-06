@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classb__crc__hw_8h.html" title="Definitions and settings for the CRC hardware module driver." alt="" coords="119,80,237,107"/>
+<area shape="rect" id="node5" href="$avr__compiler_8h.html" title="Header file for compiler compatibility." alt="" coords="79,304,184,331"/>
+<area shape="rect" id="node13" href="$classb__crc_8h.html" title="Settings and defines used in connection with CRC memory tests." alt="" coords="131,155,227,181"/>
+<area shape="rect" id="node16" href="$error__handler_8h.html" title="Macros and definitions for handling errors and other configurable actions." alt="" coords="125,229,232,256"/>
+<area shape="rect" id="node20" href="$classb__crc__sw_8h.html" title="Definitions and settings for the CRC implemented in software." alt="" coords="257,229,375,256"/>
+</map>
